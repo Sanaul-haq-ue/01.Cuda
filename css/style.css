@@ -1,0 +1,1498 @@
+/*service
+* {
+	padding: 0px;
+	margin:0px;
+	font-family: sans-serif;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+ Section start
+
+.no-padding {
+	margin: 0px;
+	padding: 0px;
+}
+*/
+
+header {
+	background-color: #87509c;
+    padding-top: 12px;
+
+}
+
+
+.menu {
+    /* width: 100%; */
+    /* margin-top: 60px; */
+    position: fixed;
+}
+
+nav {
+    /* position: fixed; */
+    /* width: 100%; */
+}
+
+.logo {
+	padding-left: 314px;
+}
+
+img {
+    /* padding-left: 314px; */
+    display: block;
+    /* position: fixed; */
+    overflow: hidden;
+}
+
+
+nav.black {
+	background: #000;
+}
+
+
+
+.h{
+
+}
+
+.top {
+    
+}
+
+.top h1 {
+    padding-bottom: 74px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 33px;
+    color: white;
+    margin: 0 auto;
+    width: 875px;
+    padding-top: 285px;
+}
+
+
+.btn-four {
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    width: 295px;
+    height: 67px;
+    background-color: #eb7d4b;
+    margin: 70px 0px 150px 731px;
+}
+
+.btn-four a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-four:hover {
+    background-color: #c86a40;
+    border: none;
+    border-color: transparent;
+}
+
+
+
+
+
+
+/*==============================(service)css===============*/
+.service {
+	background-color: #17c2a4;
+}
+
+.title-one {
+	
+}
+
+.title-one h1 {
+    color: white;
+    padding-top: 118px;
+    padding-bottom: 21px;
+    font-size: 34px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.under-line {
+	border-bottom: 7px solid #14a58c;
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+}
+
+.title-one p {
+	color: white;
+    font-size: 17px;
+    text-align: center;
+    width: 640px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 81px;
+}
+
+.weq {
+	padding-bottom: 132px;
+}
+
+.no-padding {
+    /* margin: 0px; */
+    /* padding: 0px; */
+}
+
+
+.one {
+}
+
+.one img {
+    /* padding-left: 66px; */
+    margin-bottom: 65px;
+    width: 120px;
+    height: 124px;
+    /* margin: 0 auto; */
+    margin-left: 68px;
+}
+
+.one h2 {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 28px;
+    /* font-family: cursive; */
+    margin-bottom: 24px;
+    color: white;
+}
+
+.one p {
+    text-align: center;
+    font-size: 17px;
+    font-family: initial;
+    /* margin-left: 28px; */
+    color: white;
+}
+
+
+
+
+
+/*========================(MEET OUR BEAUTIFUL TEAM)css=========================*/
+
+.meet{
+	background-color: #e7f1f8;
+
+}
+
+.title {
+
+}
+
+.title h1 {
+    color: black;
+    padding-top: 118px;
+    padding-bottom: 21px;
+    font-size: 34px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.a {
+    border-bottom: 7px solid #c8d9e5;
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+}
+
+.title p {
+    font-size: 17px;
+    text-align: center;
+    width: 640px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 81px;
+}
+
+.wer {
+
+}
+
+.two {
+
+}
+
+.two img {
+    margin-left: 29px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.two h2 {
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.two h4 {
+    font-size: 15px;
+    text-align: center;
+    color: #44bee8;
+    margin-bottom: 28px;
+}
+
+.two p {
+    text-align: center;
+    width: 210px;
+    margin: 0 auto;
+}
+
+
+
+.two ul {
+    list-style: none;
+    margin: 15px 23px 125px 23px;
+}
+
+.two ul li {
+    display: inline;
+    margin: 0px 3px;
+}
+
+.two ul li a {
+
+}
+
+
+.fa.fa-facebook-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+}
+
+
+.fa.fa-twitter-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+}
+
+
+.fa.fa-google-plus-square {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+}
+
+
+.fa.fa-sign-in {
+	font-size: 25px;
+	padding: 7px 7px;
+	color: black;
+}
+
+
+
+
+
+
+
+
+/*========================(WE GOT SKILLS!)css=========================*/
+
+.skills {
+	background-color: #ffffff;
+}
+
+.wet {
+    margin-bottom: 125px;
+}
+
+.three {
+
+
+}
+
+.three img {
+	margin-left: 52px;
+}
+
+
+
+
+
+/*========================(OUR PORTFOLIO)css=========================*/
+
+.portfoio {
+	background-color: #ffdd99;
+}
+
+#too {
+    padding-bottom: 50px;
+}
+
+ul {
+	list-style: none;
+    margin: 0 0 71px 293px;
+}
+
+ul li {
+	display: inline-block;
+    margin: 0 7px 0 8px;
+}
+
+ul li a {
+	text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+	text-decoration: none;
+    color: black;
+}
+
+
+.b {
+	border-bottom: 7px solid #ebc985;
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+}
+
+
+.btn {
+	width: 93px;
+    height: 41px;
+    border: none;
+    /* margin-left: 7px; */
+    background-color: #ebc985;
+    color: black;
+    font-size: 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+}
+
+.wey {
+
+}
+
+.four {
+
+}
+
+.four img {
+	
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 21px;
+    margin-top: 33px;
+    margin-bottom: 67px;
+}
+
+.btn-two {
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    width: 295px;
+    height: 67px;
+    text-align: center;
+    background-color: #17c2a4;
+    margin: 22px 0px 110px 409px;
+}
+
+.btn-two:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #14a58c;
+}
+
+.btn-two a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+/*========================(WHAT POEPLE SAY ABOUT US)css=========================*/
+
+
+.about {
+	background-color: #d74680;
+}
+
+.title-one {
+
+}
+
+.title-one h1 {
+    color: white;
+    padding-top: 118px;
+    padding-bottom: 21px;
+    font-size: 34px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.r {
+	border-bottom: 7px solid #b73c6d;
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+}
+
+.title-one p {
+    font-size: 17px;
+    text-align: center;
+    width: 640px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 81px;
+    color: white;
+}
+
+.weu {
+	padding-bottom: 140px;
+}
+
+
+
+
+.five {
+
+}
+
+.five img {
+	width: 142px;
+    height: 144px;
+}
+
+
+
+
+.five p {
+    color: white;
+    text-align: inherit;
+    width: 263px;
+    margin-top: 15px;
+    margin-bottom: -7px;
+}
+
+
+.five h3 {
+    text-align: inherit;
+    color: white;
+    font-size: 19px;
+    margin-bottom: 7px;
+}
+
+.five h5 {
+	text-align: inherit;
+    color: #ffdd99;
+}
+
+
+
+
+
+/*========================(GET IN TOUCH)css=========================*/
+#contact {
+	background-color: #3c5499;
+}
+
+.title-two h1 {
+    color: white;
+    padding-top: 118px;
+    padding-bottom: 21px;
+    font-size: 34px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.s{
+	border-bottom: 7px solid #273a71;
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+}
+
+.title-two p {
+    font-size: 17px;
+    text-align: center;
+    width: 730px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 81px;
+    color: white;
+}
+
+.weo {
+
+}
+
+.fom-one {
+    width: 410px;
+    /* padding-bottom: 16px; */
+    /* padding-top: 17px; */
+    /* padding-left: 30px; */
+    font-size: 20px;
+    padding: 15px 5px 15px 25px;
+    border: none;
+    border-radius: 6px;
+    background-color: #273a71;
+    margin-bottom: 40px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.fom-two {
+     width: 410px;
+    /* padding-bottom: 16px; */
+    /* padding-top: 17px; */
+    /* padding-left: 30px; */
+    font-size: 20px;
+    padding: 15px 5px 15px 25px;
+    border: none;
+    border-radius: 6px;
+    background-color: #273a71;
+    margin-bottom: 40px;
+    color: white;
+    text-transform: lowercase;
+}
+
+
+.fom-three {
+    width: 983px;
+    font-size: 20px;
+    padding: 22px 5px 165px 25px;
+    border: none;
+    border-radius: 6px;
+    background-color: #273a71;
+    margin-bottom: 80px;
+    color: white;
+}
+
+.btn-three {
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    border-color: transparent;
+    width: 295px;
+    height: 67px;
+    text-align: center;
+    background-color: #30bae7;
+    margin: 22px 0px 110px 28px;
+    display: block;
+    color: white;
+}
+
+
+.btn-three:hover {
+    background-color: #299ec5;
+}
+
+
+::placeholder{
+	color: white;
+	text-transform: capitalize;
+}
+
+
+
+
+/*========================Footer css=========================*/
+
+
+footer {
+    background-color: #344b8e;
+}
+
+.l {
+    border-bottom: 1px solid #383335;
+    width: 100%;
+}
+
+.wep {
+
+}
+
+.wep ul {
+    list-style: none;
+    margin: 48px 0 48px 0;
+}
+
+.wep ul li {
+    display: inline-block;
+    margin: 0px 30px 0 30px;
+}
+
+.wep ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+.wep ul li a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=================================================== Media Quiry  Start=============================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=================================================== @media quiry =============================================*/
+
+@media (min-width: 0px) and (max-width: 667px) {
+
+
+    .logo {
+        padding-left: 20px;
+    }
+
+
+   /*====================header section=========================*/
+   .top {
+        margin-top: 154px;
+    }
+
+   .top h1 {
+        padding-bottom: 0px;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 26px;
+        color: white;
+        margin: 0 auto;
+        width: 333px;
+        padding-top: 56px;
+    }
+
+    .btn-four {
+        margin: 106px 0px 122px 107px;
+        width: 156px;
+        height: 53px;
+    }
+
+
+
+
+
+    /*=================service section==============*/
+    .title-one h1 {
+        color: white;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 33px;
+        margin-bottom: 24px;
+    }
+
+    .title-one p {
+        font-size: 17px !important ;
+        text-align: center;
+        padding-top: 33px !important ;
+        padding-bottom: 100px !important ;
+        width: 328px;
+    }
+
+    .no-padding {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .one p {
+        margin-bottom: 94px;
+    }
+
+
+    .one img {
+        margin-bottom: 30px;
+        width: 124px;
+        height: 129px;
+        margin-left: 107px;
+    }
+
+
+
+
+
+    /*=================(MEET OUR BEAUTIFUL TEAM) section==============*/
+    .title h1 {
+        padding-top: 101px;
+        font-size: 26px;
+    }
+
+
+ 
+
+    .title p {
+        font-size: 17px;
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 145px;
+        width: 337px;
+    }
+
+
+    .two img {
+        margin-left: 68px;
+        margin-bottom: 52px;
+    }
+
+    .two ul {
+        margin: 22px 0px 127px 59px;
+    }
+
+
+
+
+
+    /*=================(WE GOT SKILLS!) section==============*/
+    .wet {
+        margin-bottom: 30px;
+    }
+
+    .three img {
+        margin-left: 89px;
+        margin-bottom: 96px;
+    }
+
+
+
+
+
+    /*=================(OUR PORTFOLIO) section==============*/
+    ul {
+        margin: 0px 0 96px -38px;
+    }
+
+    ul li {
+        margin: 0px 0px 0 0px;
+    }
+
+    .btn {
+        width: 78px;
+        height: 42px;
+        border: none;
+        font-size: 19px;
+    }
+
+
+    .four img {
+        width: 335px;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin-top: 32px;
+        margin-bottom: 81px;
+    }
+
+    .btn-two {
+        font-size: 11px !important;
+        width: 156px;
+        height: 67px;
+        margin: 22px 0px 80px 95px;
+    }
+
+
+
+
+    /*=================(WHAT POEPLE SAY ABOUT US) section==============*/
+
+
+    .weu {
+        padding-bottom: 0px;
+    }
+
+    .five img {
+        display: block;
+        margin-left: 92px;
+    }
+
+
+    .five p {
+        text-align: center;
+        margin-top: 27px;
+        margin-bottom: 0px;
+        width: 331px;
+    }
+
+    .five h3 {
+        text-align: center;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .five h5 {
+        text-align: center;
+        margin-bottom: 75px;
+    }
+
+
+
+
+
+    /*=================(GET IN TOUCH) section==============*/
+    .title-two p {
+        font-size: 17px;
+        text-align: center;
+        /* width: 730px; */
+        /* margin: 0 auto; */
+        padding-top: 31px;
+        padding-bottom: 81px;
+        color: white;
+        width: 330px;
+    }
+
+
+    .fom-one {
+        width: 328px;
+    }
+
+
+    .fom-two {
+        width: 328px;
+    }
+
+    .fom-three {
+        width: 328px;
+    }
+
+
+    .btn-three {
+        font-size: 15px;
+        width: 156px;
+        height: 53px;
+        margin: 0px 0px 37px 99px;
+    }
+
+
+
+
+
+
+
+
+    /*=================Footer section==============*/
+    .wep ul {
+        margin: 21px 0 48px 0;
+    }
+
+
+    .wep ul li {
+        margin: 9px 11px 0 0px;
+    }
+
+
+    .wep ul li a {
+        font-size: 18px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*=================================================== @media quiry =============================================*/
+
+@media (min-width: 667px) and (max-width: 1024px) {
+
+
+
+
+    .logo {
+        padding-left: 20px;
+    }
+
+
+
+   /*====================header section=========================*/
+   .top {
+        margin-top: 154px;
+    }
+
+   .top h1 {
+        padding-bottom: 71px;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 33px;
+        color: white;
+        margin: 0 auto;
+        width: 553px;
+        padding-top: 93px;
+    }
+
+
+
+    .btn-four {
+        margin: 105px 0px 122px 246px !important;
+    }
+
+
+
+
+    /*=================service section==============*/
+    .title-one h1 {
+        color: white;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 33px;
+        margin-bottom: 24px;
+    }
+
+    .title-one p {
+        font-size: 20px !important;
+        text-align: center;
+        padding-top: 33px !important;
+        padding-bottom: 100px !important;
+        width: 100%;
+    }
+
+    .no-padding {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .one p {
+        margin-bottom: 94px;
+    }
+
+
+    .one img {
+        margin-bottom: 70px;
+        width: 100px;
+        height: 104px;
+        margin-left: 10px;
+    }
+
+    .one h2 {
+        font-size: 18px;
+        margin-bottom: 32px;
+        
+    }
+
+    .btn-four {
+        margin: 105px 0px 122px 67px;
+    }
+
+
+
+
+
+
+    /*=================(MEET OUR BEAUTIFUL TEAM) section==============*/
+    .title h1 {
+        padding-top: 101px;
+        font-size: 33px;
+    }
+
+
+ 
+
+   .title p {
+        font-size: 20px;
+        padding-top: 54px;
+        padding-bottom: 145px;
+        width: 81% !important;
+    }
+
+
+    .two img {
+        width: 137px;
+        height: 135px;
+        margin-left: 0px;
+        margin-bottom: 48px;
+        display: block;
+    }
+
+    .two h2 {
+        font-size: 17px;
+        margin-bottom: 31px;
+    }
+
+
+    .two h4 {
+        font-size: 14px;
+        margin-bottom: 35px;
+    }
+
+
+    .two p {
+        width: 152px;
+        margin-bottom: 27px;
+    }
+
+    .two ul {
+        margin: 0px 0px 95px -35px;
+    }
+
+
+
+
+
+    /*=================(WE GOT SKILLS!) section==============*/
+    .title p {
+        font-size: 20px;
+        padding-top: 54px;
+        padding-bottom: 145px;
+        width: 100%;
+    }
+
+    .wet {
+        margin-bottom: 30px;
+    }
+
+    .three img {
+        margin-left: 0px;
+        margin-bottom: 97px;
+    }
+
+
+
+
+    /*=================(OUR PORTFOLIO) section==============*/
+    ul {
+        margin: 21px 0 131px 87px;
+    }
+
+    ul li {
+        margin: 0px 1px 0 18px;
+    }
+
+    .btn {
+        width: 78px;
+        height: 42px;
+        border: none;
+        font-size: 19px;
+    }
+
+
+    .four img {
+        width: 335px;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin-top: 32px;
+        margin-bottom: 81px;
+    }
+
+    .btn-two {
+        font-size: 11px !important;
+        width: 295px !important;
+        height: 67px !important;
+        margin: 0px 0px 107px 187px !important;
+    }
+
+
+
+
+
+
+    /*=================(WHAT POEPLE SAY ABOUT US) section==============*/
+    .about {
+        position: relative;
+        height: 1485px;
+    }
+
+
+    #ab {
+        left: 135px;
+        position: absolute;
+    }
+
+    #ac {
+        left: 342px;
+        position: absolute;
+    }
+
+    #ad {
+        position: absolute;
+        top: 597px;
+        right: 505px;
+    }    
+
+
+    #ae {
+        position: absolute;
+        right: 234px;
+        top: 603px;
+    }
+
+    #af {
+        position: absolute;
+        top: 858px;
+        left: 134px;
+    }
+
+    #ag {
+        position: absolute;
+        top: 858px;
+        left: 340px;
+    }
+
+
+    #ah {
+        position: absolute;
+        top: 1144px;
+        left: 136px;
+    }
+
+    #ai {
+        position: absolute;
+        top: 1148px;
+        left: 340px;
+    }
+
+
+
+
+
+
+    /*=================(GET IN TOUCH) section==============*/
+    #contact {
+        height: 980px;
+    }
+
+
+    .title-two h1 {
+        font-size: 34px;
+    }
+
+    .weo {
+        position: relative;
+    }
+
+
+    .title-two p {
+        width: 100%;
+        font-size: 20px;
+    }
+
+
+    .fom-one {
+        position: absolute;
+        width: 490px;
+        left: 70px;
+    }
+
+
+    .fom-two {
+        width: 490px;
+        position: absolute;
+        right: 40px;
+        top: 84px;
+    }
+
+    .fom-three {
+        width: 490px;
+        position: absolute;
+        top: 167px;
+        left: 70px;
+    }
+
+
+    .btn-three {
+        position: absolute;
+        top: 500px;
+        right: -55px;
+    }
+
+
+
+
+
+
+
+    /*=================Footer section==============*/
+    .wep ul {
+        margin: 21px 0 33px 12px;
+    }
+
+
+    .wep ul li {
+        margin: 15px 11px 0 11px;
+    }
+
+
+    .wep ul li a {
+        font-size: 18px;
+    }
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*=================================================== @media quiry =============================================*/
+
+@media (min-width: 1024px) and (max-width: 1366px) {
+
+
+
+
+
+   /*====================header section=========================*/
+   .top h1 {
+        width: 675px;
+    }
+
+
+
+    .btn-four {
+        margin: 105px 0px 122px 349px !important;
+    }
+
+
+
+
+    /*=================service section==============*/
+    .one img {
+        margin-left: 54px;
+    }
+
+
+
+    /*=================(MEET OUR BEAUTIFUL TEAM) section==============*/
+    .two img {
+        margin-left: 33px;
+    }
+
+
+    .two ul {
+        margin: 0px 0px 96px 0px;
+    }
+
+
+
+
+    /*=================(WE GOT SKILLS!) section==============*/
+    .title p {
+        width: 100% !important;
+    }
+
+
+    .three img {
+    margin-left: 24px;
+    }
+
+
+
+
+    /*=================(OUR PORTFOLIO) section==============*/
+    ul {
+        margin: 20px 0 131px 213px;
+    }
+
+    
+    .four img {
+        width: 452px;
+    }
+
+    .btn-two {
+        font-size: 11px !important;
+        width: 295px;
+        height: 67px;
+        margin: 0px 0px 107px 321px !important;
+    }
+
+
+
+
+    /*=================(WHAT POEPLE SAY ABOUT US) section==============*/
+    .about {
+        position: unset;
+        height: 1000px;
+    }
+
+
+    #ab {
+        left: 0px;
+        position: unset;
+    }
+
+    #ac {
+        left: 0px;
+        position: unset;
+    }
+
+    #ad {
+        position: unset;
+        top: 0px;
+        right: 0px;
+    }    
+
+
+    #ae {
+        position: unset;
+        right: 0px;
+        top: 0px;
+    }
+
+    #af {
+        position: unset;
+        top: 0px;
+        left: 0px;
+    }
+
+    #ag {
+        position: unset;
+        top: 0px;
+        left: 0px;
+    }
+
+
+    #ah {
+        position: unset;
+        top: 0px;
+        left: 0px;
+    }
+
+    #ai {
+        position: unset;
+        top: 0px;
+        left: 0px;
+    }
+
+  
+
+
+
+    /*=================(GET IN TOUCH) section==============*/
+    #contact {
+        height: 980px;
+    }
+
+    .weo {
+        position: relative;
+    }
+
+
+    .fom-one {
+        position: absolute;
+        width: 360px;
+        left: 0px;
+    }
+
+
+    .fom-two {
+        width: 360px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+    }
+
+    .fom-three {
+        width: 803px;
+        position: absolute;
+        top: 104px;
+        left: 0;
+    }
+
+
+    .btn-three {
+        position: absolute;
+        top: 432px;
+        right: 0px;
+    }
+
+
+
+
+
+
+
+    /*=================Footer section==============*/
+    .wep ul {
+        margin: 21px 0 33px 12px;
+    }
+
+
+    .wep ul li {
+        margin: 15px 11px 0 11px;
+    }
+
+
+    .wep ul li a {
+        font-size: 18px;
+    }
+
+
+
+
+
+}    
+
+
